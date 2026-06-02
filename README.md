@@ -1,7 +1,7 @@
 # CodeRefinery recipe book
 
 We use this repository to teach Git and also to collect
-some nice recipes. Vincent is there to make them nicer!
+some nice recipes. Vincent is there to make them nicer and faster!
 
 This exercise is created from https://github.com/coderefinery/recipe-book-template.
 If you wish to improve the exercise itself, please direct your pull requests
